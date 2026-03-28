@@ -1,0 +1,42 @@
+[2026-03-28 15:52:03] INFO [mirofish.create_app:38] ==================================================
+[2026-03-28 15:52:03] INFO [mirofish.create_app:39] MiroFish Backend 启动中...
+[2026-03-28 15:52:03] INFO [mirofish.create_app:40] ==================================================
+[2026-03-28 15:52:03] INFO [mirofish.create_app:49] 已注册模拟进程清理函数
+[2026-03-28 15:52:03] INFO [mirofish.create_app:77] MiroFish Backend 启动完成
+[2026-03-28 15:52:32] DEBUG [mirofish.request.log_request:55] 请求: GET /
+[2026-03-28 15:52:32] DEBUG [mirofish.request.log_response:62] 响应: 404
+[2026-03-28 15:52:33] DEBUG [mirofish.request.log_request:55] 请求: GET /favicon.ico
+[2026-03-28 15:52:33] DEBUG [mirofish.request.log_response:62] 响应: 404
+[2026-03-28 15:54:21] INFO [mirofish.create_app:38] ==================================================
+[2026-03-28 15:54:21] INFO [mirofish.create_app:39] MiroFish Backend 启动中...
+[2026-03-28 15:54:21] INFO [mirofish.create_app:40] ==================================================
+[2026-03-28 15:54:21] INFO [mirofish.create_app:49] 已注册模拟进程清理函数
+[2026-03-28 15:54:21] INFO [mirofish.create_app:77] MiroFish Backend 启动完成
+[2026-03-28 15:54:49] INFO [mirofish.create_app:38] ==================================================
+[2026-03-28 15:54:49] INFO [mirofish.create_app:39] MiroFish Backend 启动中...
+[2026-03-28 15:54:49] INFO [mirofish.create_app:40] ==================================================
+[2026-03-28 15:54:49] INFO [mirofish.create_app:49] 已注册模拟进程清理函数
+[2026-03-28 15:54:49] INFO [mirofish.create_app:77] MiroFish Backend 启动完成
+[2026-03-28 15:55:24] INFO [mirofish.create_app:38] ==================================================
+[2026-03-28 15:55:24] INFO [mirofish.create_app:39] MiroFish Backend 启动中...
+[2026-03-28 15:55:24] INFO [mirofish.create_app:40] ==================================================
+[2026-03-28 15:55:24] INFO [mirofish.create_app:49] 已注册模拟进程清理函数
+[2026-03-28 15:55:24] INFO [mirofish.create_app:77] MiroFish Backend 启动完成
+[2026-03-28 15:55:38] INFO [mirofish.create_app:38] ==================================================
+[2026-03-28 15:55:38] INFO [mirofish.create_app:39] MiroFish Backend 启动中...
+[2026-03-28 15:55:38] INFO [mirofish.create_app:40] ==================================================
+[2026-03-28 15:55:39] INFO [mirofish.create_app:49] 已注册模拟进程清理函数
+[2026-03-28 15:55:39] INFO [mirofish.create_app:77] MiroFish Backend 启动完成
+[2026-03-28 15:55:45] DEBUG [mirofish.request.log_request:55] 请求: GET /
+[2026-03-28 15:55:45] DEBUG [mirofish.request.log_response:62] 响应: 404
+[2026-03-28 15:55:45] DEBUG [mirofish.request.log_request:55] 请求: GET /favicon.ico
+[2026-03-28 15:55:45] DEBUG [mirofish.request.log_response:62] 响应: 404
+[2026-03-28 15:57:14] INFO [mirofish.create_app:38] ==================================================
+[2026-03-28 15:57:14] INFO [mirofish.create_app:39] MiroFish Backend 启动中...
+[2026-03-28 15:57:14] INFO [mirofish.create_app:40] ==================================================
+[2026-03-28 15:57:15] INFO [mirofish.create_app:49] 已注册模拟进程清理函数
+[2026-03-28 15:57:15] INFO [mirofish.create_app:77] MiroFish Backend 启动完成
+[2026-03-28 15:57:19] DEBUG [mirofish.request.log_request:55] 请求: GET /test
+[2026-03-28 15:57:19] DEBUG [mirofish.request.log_response:62] 响应: 200
+[2026-03-28 15:57:19] DEBUG [mirofish.request.log_request:55] 请求: GET /favicon.ico
+[2026-03-28 15:57:19] DEBUG [mirofish.request.log_response:62] 响应: 404
